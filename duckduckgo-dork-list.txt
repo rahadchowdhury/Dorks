@@ -1,0 +1,10 @@
+site:github.com "password" "env"
+site:pastebin.com intext:password
+site:gitlab.com intitle:"password" "admin"
+site:bitbucket.org "environment variables" password
+site:reddit.com "credentials" "leaked"
+site:medium.com intitle:"credentials" filetype:txt
+site:stackoverflow.com intitle:"password" "config"
+site:dockerhub.com intitle:"password" "secrets"
+site:quora.com "login" "credentials"
+site:slack.com "authentication" "leaked"
